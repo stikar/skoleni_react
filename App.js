@@ -15,6 +15,8 @@ export default class App extends Component {
       });
     } else {
       this._getLocationAsync();
+      //test
+  
     }
   }
 
